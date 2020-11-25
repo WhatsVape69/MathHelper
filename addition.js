@@ -25,7 +25,7 @@ var secondThing = prompt("Second Number","")
 var result = Number(firstThing) + Number(secondThing);
 
 console.log("1st Number: "+firstThing)
-console.log("Divided by")
+console.log("Added")
 console.log("2nd Number: "+secondThing)
 console.log("Result: "+result)
 
